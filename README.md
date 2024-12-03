@@ -38,7 +38,7 @@ If you want to use the "single xex bat creation EZ.bat" you will need to know th
 
 If you have "Steam" or other environments similar you can add non-Steam games to your library just "Browse" and navigate to the ".exe" files we created, this will give you a much more streamlined aesthetic allowing you to use steams in game overlay to quickly exit or modify controls if available. This environment will also allow you to add custom artwork for a more appealing look and feel. 
 
-If you don't have "Steam" you can create custom ".ico" files and use them to make custom game icons for easier identifying in the future, this will need to be done by manually launching "bat to exe converter and manually convert the ".bat" file in "Documents\Games\XEXFiles".  Without "Steam" you would need to close the game window manually when done playing, shortcuts like "alt+f4" will quickly close windows, or "esc" will exit Fullscreen mode this will allow you to click the red "x" in the top right corner manually.
+If you don't have "Steam" you can create custom ".ico" files and use them to make custom game icons for easier identifying in the future, this will need to be done by manually launching "bat to exe converter and manually convert the ".bat" file in "Documents\Games\EXEFiles".  Without "Steam" you would need to close the game window manually when done playing, shortcuts like "alt+f4" will quickly close windows, or "esc" will exit Fullscreen mode this will allow you to click the red "x" in the top right corner manually.
 
 If upon opening the games ".exe" does not automatically Fullscreen you can exit window or press "f11" this usually requires a 2nd time to boot up after 1st launching, sometimes it works sometimes it doesn't minor glitch.
 
