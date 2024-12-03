@@ -3,6 +3,10 @@ Xenia Streamlined
 What we will be doing is creating shortcuts and using "Bat to Exe converter"
 for a more streamlined automated gaming experience.
 
+*v1 (manual labor required)
+*v2 (less manual labor, but raises red flags in windows security)
+*v2.5 (automated, fixed red flags in windows security)
+
 *Requirements 
 -install "AutoHotKey"
 -install "Bat to Exe converter"
