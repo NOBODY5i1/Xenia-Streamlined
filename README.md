@@ -3,6 +3,16 @@ Xenia Streamlined
 What we will be doing is creating shortcuts and using "Bat to Exe converter"
 for a more streamlined automated gaming experience.
 
+*Requirements 
+-install "AutoHotKey"
+-install "Bat to Exe converter"
+
+After installing "AutoHotKey" ensure it is the latest version v2 or v2.0.18 
+launch "AutoHotKey Dash" from start menu click on Help and version should be listed.
+
+"Bat to Exe converter" will be used to convert .bat files to .exe for easier playing
+Read "HOWTO".
+
 v2.5
 Lets begin with the first step Create/Copy a shortcut to "OD/NOD.exe"(installer), "single xex bat creation EZ.bat"(manual bat creator tool), "GamesOD/NODv2.bat"(drag and drop game files over .bat icon to automate .bat creation to .exe conversion moves files to Games directory for more organization)copy ".exe" to a location that is easily accessible like "Desktop"
 
@@ -27,3 +37,11 @@ If you have "Steam" or other environments similar you can add non-Steam games to
 If you don't have "Steam" you can create custom ".ico" files and use them to make custom game icons for easier identifying in the future, this will need to be done by manually launching "bat to exe converter and manually convert the ".bat" file in "Documents\Games\XEXFiles".  Without "Steam" you would need to close the game window manually when done playing, shortcuts like "alt+f4" will quickly close windows, or "esc" will exit Fullscreen mode this will allow you to click the red "x" in the top right corner manually.
 
 If upon opening the games ".exe" does not automatically Fullscreen you can exit window or press "f11" this usually requires a 2nd time to boot up after 1st launching, sometimes it works sometimes it doesn't minor glitch.
+
+*You will need to source your own games I will not be held accountable for any illegal
+obtaining of ISO's or XEX files. This guide is solely for educational purposes. Enjoy!
+
+CONTRIBUTIONS
+NOBODY
+ChatGPT
+Xenia team who compiled all Emulation code
